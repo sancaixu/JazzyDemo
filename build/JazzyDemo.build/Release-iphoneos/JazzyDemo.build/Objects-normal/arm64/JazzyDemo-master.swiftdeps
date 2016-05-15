@@ -1,7 +1,0 @@
-version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
-options: "3212ec0ab683748a3f8f800f1de4cea5"
-build_time: [516615090, 862896000]
-inputs:
-  "/Users/xusancai/Desktop/JazzyDemo/JazzyDemo/Bicycle.swift": [516613188, 0]
-  "/Users/xusancai/Desktop/JazzyDemo/JazzyDemo/ViewController.swift": [516613188, 0]
-  "/Users/xusancai/Desktop/JazzyDemo/JazzyDemo/AppDelegate.swift": [516609758, 0]
